@@ -8,7 +8,7 @@ Cohort: **Add Company Sponsor Name**
 
 Team Member Names:**Cynthia Delira, Monica Kirabo, Adriana Morales, Michelle Fox-Romero**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Puneet Monga**
 
 Project Code Repository Links
 
