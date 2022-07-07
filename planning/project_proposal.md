@@ -8,7 +8,11 @@ Insert your groups problem statement and target audience.
 
 ## Description
 
-What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+What is the main purpose of your project? 
+
+What are the key features your site has to offer its users? 
+
+How will your targeted audience use your website?
 
 ## Expected Features List
 
@@ -37,3 +41,8 @@ What similar apps and websites? How will your project stand out from these other
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
+* We are still unsure about how to connect the vendor with the user side 
+* We will need to research how to implement a secure transaction feature (tentatively)
+* We will need to research how to implent vendor-exclusive features (tentatively)
+* We will need to research how to display order tracker and location (tentatively)
+
