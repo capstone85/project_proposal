@@ -8,7 +8,7 @@ Insert your groups problem statement and target audience.
 
 ## Description
 
-What is the main purpose of your project? 
+What is the main purpose of your project?
 
 What are the key features your site has to offer its users? 
 
@@ -33,10 +33,9 @@ Add a list of your groups's brainstormed features list
 * User Wishlist  
 * Payments
 
-
 ## Related Work
 
-What similar apps and websites? How will your project stand out from these other websites?
+What are some similar apps and websites? How will your project stand out from these other websites?
 
 ## Open Questions
 
