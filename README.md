@@ -8,7 +8,7 @@ Cohort: **Add Company Sponsor Name**
 
 Team Member Names:**Cynthia Delira, Monica Kirabo, Adriana Morales, Michelle Fox-Romero**
 
-Mentors Names: **Puneet Monga, Lakshmanan Chinnaveerappan**
+Mentors Names: **Brian Jack, Nalini Prakash, Puneet Monga, Lakshmanan Chinnaveerappan**
 
 Project Code Repository Links
 
