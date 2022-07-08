@@ -17,18 +17,18 @@ How will your targeted audience use your website?
 
 1. We want customers to be able to shop for clothing in one, centralized place.
   * Problems we are trying to solve in this vision:
-    i. Customers do not want to jump from app to app
-    ii. A lot of time and energy spent (shopping and shipping) 
-    iii. Customers make multiple payments in separate stores (entering credit card info multiple times)
-    iv. Customers have to track multiple problems in multiple places
-2. We want to give both local and national clothing stores an online platform to increase their revenue.
+    - Customers do not want to jump from app to app
+    - A lot of time and energy spent (shopping and shipping) 
+    - Customers make multiple payments in separate stores (entering credit card info multiple times)
+    - Customers have to track multiple problems in multiple places
+2. We want to give local (and national) clothing stores an online platform to increase their revenue.
   * Problems we are trying to solve:
-    i. Local stores don’t have much traction or a platform for their stores to compete with big clothing companies. 
+    - Local stores don’t have much traction or a platform for their stores to compete with big clothing companies. 
 3. Sustainability (for seller, buyer): We want to have time- and cost-efficient shipping for customers and vendors alike.
   * Problems we are trying to solve in this vision: 
-    i. Significant, separate shipping costs involved in placing an order.
-    ii. Environmental cost of shipping includes gas mileage
-    iii. Cardboard and plastic waste involved in packaging
+    - Significant, separate shipping costs involved in placing an order.
+    - Environmental cost of shipping includes gas mileage
+    - Cardboard and plastic waste involved in packaging
 
 
 ## Expected Features List
