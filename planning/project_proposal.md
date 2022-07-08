@@ -53,6 +53,10 @@ Add a list of your groups's brainstormed features list
 
 What are some similar apps and websites? How will your project stand out from these other websites?
 
+Similar apps: Uber Eats and Amazon
+
+Our project stands out from these websites since its purpose is for clothing and allows for small businesses and small retail stores that have a lack of online presence to expand their customers.
+
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
