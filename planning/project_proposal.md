@@ -5,6 +5,7 @@ Pod Members: **Michelle Fox-Romero, Adriana Morales, Monica Kirabo, Cynthia Deli
 ## Problem Statement
 
 Insert your groups problem statement and target audience.
+Problem statement: Many people find difficulty in looking for specific clothing items and must travel from shop to shop, either online or in person, just to see what kinds of things are in store. Our application seeks to allow people looking for clothing in one centralized place to reduce time and energy costs and make shopping for clothing more convenient.
 
 ## Description
 
