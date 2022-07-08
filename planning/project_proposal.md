@@ -5,7 +5,7 @@ Pod Members: **Adriana Morales, Cynthia Delira, Michelle Fox-Romero, Monica Kira
 ## Problem Statement
 
 Insert your groups problem statement and target audience.
-Problem statement: Many people find difficulty in looking for specific clothing items and must travel from shop to shop, either online or in person, just to see what kinds of things are in store. Our application seeks to allow people looking for clothing in one centralized place to reduce time and energy costs and make shopping for clothing more convenient.
+Problem statement: Many people find difficulty in looking for specific clothing items and must travel from shop to shop, either online or in person, just to see what kinds of things are in store. An upward trend in fast fashion purchases has also increased environmental and energy costs due to long shipping times and wasteful packaging. Our application seeks to allow people looking for clothing in one centralized place and give local clothing shops a platform to reduce time and energy costs and make shopping for clothing more convenient.
 
 ## Description
 
@@ -54,7 +54,7 @@ Add a list of your groups's brainstormed features list
 
 What are some similar apps and websites? How will your project stand out from these other websites?
 
-Similar apps: Uber Eats, Instacart, Amazon Prime/Fresh
+Similar apps: Uber Eats, Instacart, Amazon Prime/Fresh. Our project focuses on clothing specifically.
 
 Our project stands out from these websites since its purpose is for clothing and allows for small businesses and small retail stores that have a lack of online presence to expand their customers.
 
