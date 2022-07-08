@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Michelle Fox-Romero, Adriana Morales, Monica Kirabo, Cynthia Delira**
+Pod Members: **Adriana Morales, Cynthia Delira, Michelle Fox-Romero, Monica Kirabo**
 
 ## Problem Statement
 
@@ -54,7 +54,7 @@ Add a list of your groups's brainstormed features list
 
 What are some similar apps and websites? How will your project stand out from these other websites?
 
-Similar apps: Uber Eats and Amazon
+Similar apps: Uber Eats, Instacart, Amazon Prime/Fresh
 
 Our project stands out from these websites since its purpose is for clothing and allows for small businesses and small retail stores that have a lack of online presence to expand their customers.
 
