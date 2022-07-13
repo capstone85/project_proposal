@@ -8,6 +8,8 @@ Insert the latest summary of your problem statement and app description.
 
 Problem statement: Many people find difficulty in looking for specific clothing items and must travel from shop to shop, either online or in person, just to see what kinds of things are in store. An upward trend in fast fashion purchases has also increased environmental and energy costs due to long shipping times and wasteful packaging. Our application seeks to allow people looking for clothing in one centralized place and give local clothing shops a platform to reduce time and energy costs and make shopping for clothing more convenient.
 
+App Description: Application loads a list of stores depending on location of user and displaying the stores at closest range. Application allows user to scroll through nearby stores and allows user to click on a store of interest to see the store's list of products. Application also contains search bar that allows user to search for specific products and the application will display a list of products that match the search. Application will also contain a feature that allows local stores to display their store information alongside products and their store will be displayed to shoppers nearby and their products will be displayed if user searches for a product that matches the given description.
+
 ## User Roles and Personas
 
 Include the most up-to-date user roles and personas.
