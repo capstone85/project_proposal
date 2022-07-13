@@ -1,10 +1,12 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Adriana Morales, Cynthia Delira, Michelle Fox-Romero, Monica Kirabo**
 
 ## Problem Statement and Description
 
 Insert the latest summary of your problem statement and app description.
+
+Problem statement: Many people find difficulty in looking for specific clothing items and must travel from shop to shop, either online or in person, just to see what kinds of things are in store. An upward trend in fast fashion purchases has also increased environmental and energy costs due to long shipping times and wasteful packaging. Our application seeks to allow people looking for clothing in one centralized place and give local clothing shops a platform to reduce time and energy costs and make shopping for clothing more convenient.
 
 ## User Roles and Personas
 
