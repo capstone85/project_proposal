@@ -34,13 +34,45 @@ Describe your app's data model using diagrams or tables
 | image | url | store picture/logo |
 | description | text | information of store |
 
-| Store Card | Type | Description |
+| User | Type | Description |
 | --- | --- | --- |
-| store_id | integer | primary key for store |
-| store_name | text | store name |
-| location | text | address of store |
-| image | url | store picture/logo |
-| description | text | information of store |
+| user_id | integer | primary key for store |
+| first_name | text | first name |
+| last_name | text | last name |
+| email | text | email/username for user |
+| password | text | hashed password |
+| number | integer | phone number of user |
+
+| Product Card | Type | Description |
+| --- | --- | --- |
+| product_id | integer | primary key for store |
+| store_id | integer | store key |
+| name | text | name of product |
+| description | text | description of product |
+| price | integer | cost of product |
+| image | url | picture of product |
+| category | text | specific category for product |
+| color | text | color of product |
+| size | text | size of product |
+| quantity | integer | amount of product |
+
+| Shopping Cart | Type | Description |
+| --- | --- | --- |
+| user_id | integer | key |
+| product_id | integer | key |
+| store_id | integer | key |
+
+| Checkout | Type | Description |
+| --- | --- | --- |
+| user_id | integer | key |
+| store_id | integer | key |
+| location | integer | key |
+
+| Wishlist | Type | Description |
+| --- | --- | --- |
+| user_id | integer | key |
+| product_id | integer | key |
+| store_id | integer | key |
 
 ## Endpoints
 
