@@ -34,6 +34,14 @@ Describe your app's data model using diagrams or tables
 | image | url | store picture/logo |
 | description | text | information of store |
 
+| Store Card | Type | Description |
+| --- | --- | --- |
+| store_id | integer | primary key for store |
+| store_name | text | store name |
+| location | text | address of store |
+| image | url | store picture/logo |
+| description | text | information of store |
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
