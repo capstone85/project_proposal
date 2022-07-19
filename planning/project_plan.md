@@ -22,9 +22,17 @@ List the current user stories you will implement.
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
 
+
 ## Data Model
 
 Describe your app's data model using diagrams or tables
+| Store Card | Type | Description |
+| --- | --- | --- |
+| store_id | integer | primary key for store |
+| store_name | text | store name |
+| location | text | address of store |
+| image | url | store picture/logo |
+| description | text | information of store |
 
 ## Endpoints
 
