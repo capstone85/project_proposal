@@ -77,5 +77,35 @@ Describe your app's data model using diagrams or tables
 ## Endpoints
 
 List the API endpoints you will need to implement.
+Base URL: ___.com/
+
+Utility endpoints:
+- /login
+- /register
+
+Landing Page: 
+- GET /
+
+User: 
+- GET  /user/:user_id
+- POST /user
+
+Store: 
+- GET /store/:store_id
+
+Product:
+- GET /product/:product_id
+- POST /cart/:product_id
+- POST /wishlist/:product_id
+
+Shopping Cart:
+- GET /cart
+- POST /orders/:order_id
+
+Orders:
+- GET /orders
+
+Wishlist
+- GET /wishlist
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
