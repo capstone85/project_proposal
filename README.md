@@ -4,7 +4,7 @@
 
 SITE Course Year: **2022**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce Futureforce Tech Launchpad**
 
 Team Member Names:**Cynthia Delira, Monica Kirabo, Adriana Morales, Michelle Fox-Romero**
 
@@ -17,7 +17,7 @@ Project Code Repository Links
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+We intend to make a personal shopper app, to shop across multiple local clothing stores online and have the items delivered to your home.
 
 Deployment Website: **Add Link to Deployed Project**
 
