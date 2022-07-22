@@ -14,9 +14,32 @@ App Description: Application loads a list of stores depending on location of use
 
 Include the most up-to-date user roles and personas.
 
+
+Shopper: someone seeking to purchase clothing
+
+Emma is a local boutique owner and is trying to increase sales, but does not a have platform to display her products to a wider range of people. She can enroll on our site as a vendor to begin displaying her merchandise online in a place frequented by local shoppers.
+Emily just received extra inventory for several of her products and is having trouble selling through store front and is looking to promote her business.
+
+Vendor: someone trying to sell their clothes locally
+
+Eva recently tore her favorite pair of work pants and is in need of a new pair but is caught up in work and therefore can not find the time to go shopping in look for new pants.
+Ellie loves online shopping but recently read an article about all the cardboard and plastic waste that is harmful to the planet due to online shopping. However, Ellie finds it more convenient to shop online and wants to continue in a more environmentally and friendly way.
+Ella frequently purchases different clothing items in various stores and finds it inconvenient the high shopping cost for each store.
+
 ## User Stories
 
 List the current user stories you will implement.
+
+- As a shopper, I want to be able to have a centralized list of stores near me, so that I can better identify clothing stores that suit my style.
+- As a shopper, I want to know the kind of merchandise available in the stores near me, so that I can save my time when shopping.
+- As a shopper, I want to avoid gathering too much cardboard and plastic waste as possible, to be more sustainable.
+- As a shopper, I want to know about the clothing stores near me, in order to support local businesses and vendors.
+- As a vendor, I want to have a place for people to see what I sell, to generate more revenue.
+- As a vendor, I want my customers to shop in a more environmentally and friendly way.
+- As a vendor, I want to have a tracking page for all the online orders.
+- As a shopper, I want to be able to not pay several shipping costs for different stores.
+- As a vendor, I want my customers to easy and convenient way to purchase my products.
+- As a shopper, I want to be able to search for a specific product in a convenient way.
 
 ## Pages/Screens
 
