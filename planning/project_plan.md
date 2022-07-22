@@ -74,6 +74,12 @@ Describe your app's data model using diagrams or tables
 | product_id | integer | key |
 | store_id | integer | key |
 
+| Orders | Type | Description |
+| --- | --- | --- |
+| user_id | integer | key |
+| product_id | integer | key |
+| store_id | integer | key |
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
@@ -83,29 +89,43 @@ Utility endpoints:
 - /login
 - /register
 
-Landing Page: 
-- GET /
+Landing Page:
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/" fetches landing page |
 
 User: 
-- GET  /user/:user_id
-- POST /user
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/user" Fetch id of specific shopper | 
+| Create | POST | "/user/:user_id" Create new user account for shopper |
 
 Store: 
-- GET /store/:store_id
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/store/:store_id" Fetch id from store |
 
 Product:
-- GET /product/:product_id
-- POST /cart/:product_id
-- POST /wishlist/:product_id
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/product/:product_id" Fetch id from product from all stores |
+| Create | POST | "/cart/:product_id" Fetch product id from the cart |
+| Create | POST | "/wishlist/:product_id" Fetch product from the wishlist |
 
 Shopping Cart:
-- GET /cart
-- POST /orders/:order_id
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/cart" Fetch list of products in cart |
+| Create | POST | "/orders/:order_id" Create new order with list of products in cart |
 
 Orders:
-- GET /orders
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/orders" Fetch order list |
 
 Wishlist
-- GET /wishlist
+| CRUD | HTTP Verb | Description |
+| --- | --- | --- |
+| Read | GET | "/wishlist" Fetch product list in wishlist |
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
